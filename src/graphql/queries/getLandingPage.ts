@@ -10,12 +10,21 @@ const GET_LANDING_PAGE = /* GraphQL */ `
     header {
       title
       description
-
       button {
         label
         url
       }
+      image {
+        alternativeText
+        url
+      }
+    }
+  }
 
+  fragment sectionAboutProject on LandingPage {
+    sectionAboutProject {
+      title
+      description
       image {
         alternativeText
         url
@@ -27,6 +36,7 @@ const GET_LANDING_PAGE = /* GraphQL */ `
     landingPage {
       ...logo
       ...header
+      ...sectionAboutProject
     }
   }
 `

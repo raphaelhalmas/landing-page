@@ -19,8 +19,8 @@
     "@types/jest": "^26.0.23",
     "@types/react": "^17.0.11",
     "@types/styled-components": "^5.1.0",
-    "@typescript-eslint/eslint-plugin": "^4.27.0",
     "@typescript-eslint/parser": "^4.28.0",
+    "@typescript-eslint/eslint-plugin": "^4.28.0",
     "babel-eslint": "^10.1.0",
     "babel-plugin-styled-components": "^1.12.0",
     "eslint": "^7.29.0",
@@ -36,7 +36,7 @@
     "typescript": "^4.3.4"
   },
   "dependencies": {
-    "graphql": "^15.5.0",
+    "graphql": "^15.5.1",
     "graphql-request": "^3.4.0",
     "imagemin-mozjpeg": "^9.0.0",
     "imagemin-optipng": "^8.0.0",

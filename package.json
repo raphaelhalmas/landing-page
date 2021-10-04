@@ -19,7 +19,7 @@
     "@testing-library/react": "^12.1.1",
     "@types/jest": "^27.0.2",
     "@typescript-eslint/eslint-plugin": "^4.32.0",
-    "@typescript-eslint/parser": "^4.32.0",
+    "@typescript-eslint/parser": "^4.33.0",
     "@types/styled-components": "^5.1.14",
     "babel-eslint": "^10.1.0",
     "babel-plugin-styled-components": "^1.13.2",

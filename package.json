@@ -37,7 +37,7 @@
   },
   "dependencies": {
     "graphql": "^15.6.1",
-    "graphql-request": "^3.5.0",
+    "graphql-request": "^3.6.1",
     "imagemin-mozjpeg": "^9.0.0",
     "imagemin-optipng": "^8.0.0",
     "next": "11.1.2",

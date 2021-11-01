@@ -14,7 +14,7 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@babel/plugin-transform-react-jsx": "^7.14.9",
+    "@babel/plugin-transform-react-jsx": "^7.16.0",
     "@testing-library/react": "^12.1.2",
     "@types/react": "^17.0.32",
     "@types/jest": "^27.0.2",

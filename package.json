@@ -33,7 +33,7 @@
     "jest": "^27.5.1",
     "jest-styled-components": "^7.0.8",
     "prettier": "^2.6.2",
-    "typescript": "^4.7.3"
+    "typescript": "^4.7.4"
   },
   "dependencies": {
     "graphql": "^16.5.0",
